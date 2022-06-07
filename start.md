@@ -10,7 +10,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Innleveringsplan](innleveringer.html){:target="blank"}   
 
 
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
