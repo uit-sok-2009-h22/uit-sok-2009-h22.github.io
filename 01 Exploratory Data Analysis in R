@@ -1,2 +1,0 @@
-{% include navbar_open.html %}{% include top-box.html %}
-Dette er en ekstra side
