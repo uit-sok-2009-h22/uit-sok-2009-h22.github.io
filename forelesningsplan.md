@@ -6,7 +6,7 @@
 
 ## Eksempel på tabell for forelesningsplan
 
-| Uke | Tid            | Sted            |Undervisningsform | Tema               | Resurser |
+| Uke | Tid            | Sted            |Undervisningsform | Tema               | Resurser <img width 350>|
 |----|----------------|-----------------|--------------------|--------------------|--------------------|
 |Uke 33 |17.08  14:15-16:00  | 02.217, Innovatøren |Forelesninger|[Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)| [Forelesning 1](01side.md){:target="blank"} |
 |Uke 34 |22.08  14:15-16:00  | 02.217, Innovatøren |Forelesninger|[Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)| [Forelesning 2](01side.md){:target="blank"} |
