@@ -8,7 +8,7 @@
 
 | Uke | Tid            | Sted            |Undervisningsform | Tema               | Resurser |
 |----|----------------|-----------------|--------------------|--------------------|--------------------|
-|Uke 33 |17.08  14:15 -16:00  |Handelshøgskolen: 02.217, Innovatøren |Forelesninger|[Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)|  |
+|Uke 33 |17.08  14:15 -16:00  |Handelshøgskolen: 02.217, Innovatøren |Forelesninger|[Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)| [Forelesningsplan](forelesningsplan.html){:target="blank"} |
 
    
 
