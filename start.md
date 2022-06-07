@@ -20,8 +20,8 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen) {:target="blank"} (fagansvarlig)
+
 
 
 
@@ -35,7 +35,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ### Pensum til forelesningene
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
+Dette emne bruker online booken [Modern Statistics with R](https://modernstatisticswithr.com/) som pensum book. I tillegg er alle stegene i Datacamp også pensum.
 
 
 
@@ -46,6 +46,12 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
+### Innleveringer 
+Emnet har to arbeidskrav, en gruppe presentasjon og et individuelt arbeidskrav. Begge må være godkjent for å kunne avlegge eksamen. 
+
+
+### Eksamen
+Eksamensordningen er en mappe som består av to deler. Innlevering av gruppe prosjektet og en individuell innlevering. Begge delene teller likt på sluttvurderingen. Eksamen vurderes med bokstavkarakterer A-E, med F som stryk. 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
