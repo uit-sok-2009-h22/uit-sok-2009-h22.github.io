@@ -30,3 +30,4 @@
 |Uke 43 |28.10  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 6](01side.md){:target="blank"} |  
 |Uke 44 |31.10  12:15-14:00  | 02.217, Innovatøren |Forelesninger|[Probability Puzzles in R](https://app.datacamp.com/learn/courses/probability-puzzles-in-r)| [Forelesning 15](01side.md){:target="blank"} |  
 |Uke 44 |03.11  10:15-12:00  | 02.217, Innovatøren |Forelesninger|| [Forelesning 16](01side.md){:target="blank"} |  
+|Uke 50 |12.12  13:00  |  |Eksamen|| |  
