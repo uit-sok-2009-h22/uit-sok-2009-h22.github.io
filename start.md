@@ -6,7 +6,7 @@ Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, fagl√
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Undervisningsplan](forelesningsplan.html){:target="blank"}
-- [Seminaroppgaver](seminarplan.html)
+- [Seminaroppgaver](seminarplan.md)
 - [Innleveringsoppgaver](innleveringer.html){:target="blank"}   
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} p√• timeplan.uit.no
