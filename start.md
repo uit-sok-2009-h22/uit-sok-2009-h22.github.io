@@ -5,9 +5,9 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Undervisningsplan](forelesningsplan.html){:target="blank"}
+- [Undervisningsplan](forelesningsplan.html)
 - [Seminaroppgaver](seminarplan.md)
-- [Innleveringsoppgaver](innleveringer.html){:target="blank"}   
+- [Innleveringsoppgaver](innleveringer.html)
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
 
@@ -53,5 +53,5 @@ Emnet har to arbeidskrav, en gruppe presentasjon og et individuelt arbeidskrav. 
 Eksamensordningen er en mappe som består av to deler. Innlevering av gruppe prosjektet og en individuell innlevering. Begge delene teller likt på sluttvurderingen. Eksamen vurderes med bokstavkarakterer A-E, med F som stryk. 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [innleveringsoppgaver](innleveringer.html).    
 
