@@ -5,10 +5,8 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
+- [Undervisningsplan](forelesningsplan.html){:target="blank"}
 - [Innleveringsplan](innleveringer.html){:target="blank"}   
-
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
 
@@ -17,19 +15,17 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 
 Kurset tas nomralt i andre semster, og teller 10 studiepoeng.
-Kurest består av online oppgaver via [Datacamp](datacamp.com), forelesninger og seminarer. Hver uke har et tema dette er knyttet opp til et kurs i datacamp, med tilhørende forelesning. Det er lagt opp til at dere gjennomfører disse før forelesning. Dette gjøres så dere blir litt kjent med koden og teorien før forelesningene. I forelesningene blir det mer tid brukt på teorien rundt temaet for uken, forståelse og tolking av resultatene.
+Kurest består av online oppgaver via [Datacamp](datacamp.com), forelesninger og seminarer. Hver forelesning har et tema dette er knyttet opp til et kurs i datacamp. Det er lagt opp til at dere gjennomfører datacamp kurest før forelesning. Dette gjøres så dere blir litt kjent med koden og teorien før forelesningene. I forelesningene blir det mer tid brukt på teorien rundt temaet for uken, forståelse og tolking av resultatene.
 Seminarene blir basert på oppgavegjennomgang. 
 
 
 ## Faglærerinfo  
-- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen) {:target="blank"} (fagansvarlig)
-
-
+- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen){:target="blank"} (fagansvarlig)
 
 
 ## Administrative spørsmål
 
-For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
+For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon. De kan hjelpe dere med slike ting som tillrettelegelse under eksamen, 
 
 
 ## Pensum  
