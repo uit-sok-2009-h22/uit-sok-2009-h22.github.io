@@ -36,7 +36,10 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
 Dette emne bruker online booken [Modern Statistics with R](https://modernstatisticswithr.com/) som pensum book. I tillegg er alle stegene i Datacamp også pensum.
 
+## Datacamp
 
+Får å få tilgang til Datacamp må deres registrere dere til kurset/rommet vårt i Datacamp. Dere gjør dette ved å følge linken under. Dere MÅ resisterer dere med universitetes mail i form av "abc123@uit.no". Hvis dere bruker en privat epost vil dere ikke få tilgang.  
+[Datacamp registrering](https://www.datacamp.com/groups/shared_links/acb8f005dcc109e9b460bc7ef09ab1f611cacea99719ba679b05faeeea8af9cf)
 
 ## Kunngjøringer  
 
