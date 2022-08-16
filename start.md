@@ -41,6 +41,9 @@ Dette emne bruker online booken [Modern Statistics with R](https://modernstatist
 Får å få tilgang til Datacamp må deres registrere dere til kurset/rommet vårt i Datacamp. Dere gjør dette ved å følge linken under. Dere MÅ resisterer dere med universitetes mail i form av "abc123@uit.no". Hvis dere bruker en privat epost vil dere ikke få tilgang.  
 [Datacamp registrering](https://www.datacamp.com/groups/shared_links/acb8f005dcc109e9b460bc7ef09ab1f611cacea99719ba679b05faeeea8af9cf)
 
+Hvis denne registreringen ikke fungerer kan dere bruke alternative epost adressen i form av "abc123@post.uit.no". Ved å følge linken under
+[Datacamp alternativ registrering](https://www.datacamp.com/groups/shared_links/a1eb137c1eb25a608c94782da347a86fbfb00d6f41f060f06a93fa4c76fe57ff)
+
 ## Kunngjøringer  
 
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
