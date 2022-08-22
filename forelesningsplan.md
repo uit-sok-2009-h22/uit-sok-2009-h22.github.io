@@ -1,7 +1,6 @@
 {% include navbar_open.html %}{% include top-box.html %}
 # Forelesningsplan  
 
-**Informasjonsmøte** om sok-2009 finner sted i xx.xx.xx kl xx:xx    
 
 
 ## Eksempel på tabell for forelesningsplan
