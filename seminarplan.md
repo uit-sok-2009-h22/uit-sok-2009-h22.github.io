@@ -1,9 +1,9 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# SOK-1006 Mikroøkonomi    
+# Sok-2009 
 
 ## Seminarplan   
 
-
+I seminarene blir det gitt oppgaver som vi løser sammen. Disse oppgavene kommer til å bestå 
 
 |Uke | Seminarnr. | Tema                        |  Side  |
 |----|------------|-----------------------------|-------------------------|
