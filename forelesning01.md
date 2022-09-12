@@ -4,5 +4,7 @@
 ## Datacamp
 [Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)
 
+## Forelesnings slides
+[Forelesning 1](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Sok%202009%20Forelesning%201.pptx)
 
 ## Kode 
