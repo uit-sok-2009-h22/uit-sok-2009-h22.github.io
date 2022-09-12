@@ -7,9 +7,9 @@
 |----|----------------|-----------------|--------------------|--------------------|--------------------|
 |Uke 34 |22.08  14:15-16:00  | 02.217, Innovatøren |Forelesninger|[Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)| [Forelesning 1](forelesning1.md) |
 |Uke 36 |05.09  12:15-14:00  | 02.219, Innovatøren |Forelesninger|[Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)| [Forelesning 2](forelesninger/forelesning2.md)|
-| Uke 36 |08.09 10:15-12:00 | 02.217, Innovatøren  |Forelesninger|[Sampling in R](https://app.datacamp.com/learn/courses/sampling-in-r)| [Forelesning 3](01side.md){:target="blank"} |  
+| Uke 36 |08.09 10:15-12:00 | 02.217, Innovatøren  |Forelesninger|[Sampling in R](https://app.datacamp.com/learn/courses/sampling-in-r)| [Forelesning 3](01side.md)|  
 | Uke 37 | 15.09  10:15-12:00   | 02.217, Innovatøre |Forelesninger|[Hypothesis Testing in R](https://app.datacamp.com/learn/courses/hypothesis-testing-in-r)| [Forelesning 4](01side.md) |  
-|Uke 37 |16.09  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 1](01side.md){:target="blank"} |  
+|Uke 37 |16.09  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 1](01side.md)|  
 |Uke 38 |19.09  10:15-12:00   | 02.217, Innovatøren  |Forelesninger|[Foundation of inference](https://app.datacamp.com/learn/courses/inference-for-numerical-data-in-r)| [Forelesning 5](01side.md) |  
 |Uke 38 |22.09  10:15-12:00  | 02.217, Innovatøren |Forelesninger|[Inference for Numerical Data in R](https://app.datacamp.com/learn/courses/inference-for-numerical-data-in-r) | [Forelesning 6](01side.md) |  
 |Uke 38 |23.09  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 2](01side.md){:target="blank"} |  
