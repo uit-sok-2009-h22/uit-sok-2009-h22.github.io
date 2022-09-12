@@ -11,3 +11,6 @@
 [R-kode]()
 
 
+## Datasett
+[Late shipments](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/late_shipments.Rdata?raw=true)
+
