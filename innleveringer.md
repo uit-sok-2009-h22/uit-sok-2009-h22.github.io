@@ -8,7 +8,7 @@
 
 ### Individuelle arbeidskravet (arbeidskrav 1)
 
-\testbf{Innleveringsfrist: Uke 47, onsdag 23.11 kl 14:00.}
+**Innleveringsfrist: Uke 47, onsdag 23.11 kl 14:00.**
 
 I datacamp har vi 15 kurs som er lagt til vårt emne. Det er lagt opp til at dere ser disse videoene før forelesning, men er ikke at absoult krav. 
 
@@ -32,7 +32,7 @@ Legg merke til at kurset i datacamp \emph{Correlation and Regression in R} ikke 
 
 ### Gruppe presantasjon (arbeidskrav 2)
 
-\testbf{Innleveringsfrist: Uke 43}
+**Innleveringsfrist: Uke 43**
 
 Muntelig presentasjon av et felles prosjekt. Til innleveringen har jeg satt av en uke siden ingen kan presanterer samtidig. Dette arbeidskravet er samme oppgave som gruppe prosjektet til første del av eksamen. Det er ment til at dere skal kan presantere deres funn/løsninger til meg å få tilbakemeling. 
 Alle i gruppen må være tilstede under presantasjonen, men ikke alle trenger å presantere. Men jeg blir å stille spørsmål som alle må være med å svare. 
