@@ -8,3 +8,4 @@
 [Forelesning 1](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Sok%202009%20Forelesning%201.pptx)
 
 ## Kode 
+[R-kode](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Forelesning%201.R)
