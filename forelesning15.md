@@ -2,10 +2,8 @@
 # Forelesning 15: Oppsummeringsforelesning
 
 ## Forelesnings slides
-[Forelesning]()
 
 ## Kode 
-[R-kode]()
 
 
 
