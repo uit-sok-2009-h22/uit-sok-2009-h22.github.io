@@ -1,5 +1,5 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Utforskende dataanalyse i R
+# Forelesning 6: Utforskende dataanalyse i R
 
 ## Datacamp
 [Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)
