@@ -1,0 +1,9 @@
+{% include navbar_open.html %}{% include top-box.html %}
+# Introduksjon til statistikk
+
+## Datacamp
+[Introduction to statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)
+
+## Pensum
+
+## Kode 
