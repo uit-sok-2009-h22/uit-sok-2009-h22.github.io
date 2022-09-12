@@ -2,15 +2,15 @@
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, forelesninger, seminarer, tema samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Undervisningsplan](forelesningsplan.html)
-- [Seminaroppgaver](seminarplan.md)
 - [Innleveringsoppgaver](innleveringer.html)
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
 
+Universitetets egne kursbeskrivelse finner du på UiT sin hjemme side [link](https://uit.no/utdanning/emner/emne?p_document_id=766157)
 
 ## Kursbeskrivelse 
 
