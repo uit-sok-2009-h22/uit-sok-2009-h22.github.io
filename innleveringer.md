@@ -28,8 +28,8 @@ I datacamp har vi 15 kurs som er lagt til vårt emne. Det er lagt opp til at der
 - Foundations of Probability in R 
 - Probability Puzzles in R 
 
-Legg merke til at kurset i datacamp \emph{Correlation and Regression in R} ikke lenger er del av de obligatoriske innleveringene. Dette er fordi dette kurset har blitt arkivert av datacamp og er ikke lenger tilgjenelig.
-De to emnene som heter *Introduction to Regression in R* og *Intermediate Regression in R* så står det - logistic regression. Dette betyr at kapittel 4 i begge disse emnene ikke er obligatorisk. Logistisc regressjon er ikke pensum i dette emnet. 
+Legg merke til at kurset i datacamp *Correlation and Regression in R* ikke lenger er del av de obligatoriske innleveringene. Dette er fordi dette kurset har blitt arkivert av datacamp og er ikke lenger tilgjenelig.
+De to emnene som heter *Introduction to Regression in R* og *Intermediate Regression in R* så står det "(- logistic regression)", dette betyr at kapittel 4 som er logistisk regrssio ikke krevet for dette emnet. Logistisc regressjon er ikke pensum i dette emnet. 
 
 ### Gruppe presantasjon (arbeidskrav 2)
 
