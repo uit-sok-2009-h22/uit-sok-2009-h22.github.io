@@ -24,5 +24,5 @@
 |Uke 43 |27.10  10:15-12:00  | 02.217, Innovatøren |Forelesninger|[Foundation of Probability in R](https://app.datacamp.com/learn/courses/foundations-of-probability-in-r)| [Forelesning 13](01side.md){:target="blank"} |  
 |Uke 43 |28.10  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 5](01side.md){:target="blank"} |  
 |Uke 44 |31.10  12:15-14:00  | 02.217, Innovatøren |Forelesninger|[Probability Puzzles in R](https://app.datacamp.com/learn/courses/probability-puzzles-in-r)| [Forelesning 14](01side.md){:target="blank"} |  
-|Uke 44 |03.11  10:15-12:00  | 02.217, Innovatøren |Forelesninger|| [Forelesning 15](01side.md){:target="blank"} |  
+|Uke 44 |03.11  10:15-12:00  | 02.217, Innovatøren |Forelesninger|Oppsummeringsforelesning| [Forelesning 15](01side.md){:target="blank"} |  
 |Uke 50 |12.12  13:00  |  |Eksamen|| |  
