@@ -2,11 +2,11 @@
 # Utforskende dataanalyse i R
 
 ## Datacamp
-[Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r)
+[Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)
 
 ## Forelesnings slides
-[Forelesning](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Sok%202009%20Forelesning%201.pptx)
+[Forelesning](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Sok%202009%20Forelesning%202.pptx)
 
 ## Kode 
-[R-kode](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Forelesning%201.R)
+[R-kode](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Forelesning%202.R)
 
