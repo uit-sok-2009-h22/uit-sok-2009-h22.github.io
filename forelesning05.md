@@ -1,13 +1,12 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Forelesning 5: Utforskende dataanalyse i R
+# Forelesning 5: Hva er inteferens
 
 ## Datacamp
-[Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)
+[Foundation of inference](https://app.datacamp.com/learn/courses/inference-for-numerical-data-in-r)
 
 ## Forelesnings slides
-[Forelesning](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Sok%202009%20Forelesning%202.pptx)
+
 
 ## Kode 
-[R-kode](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Forelesning%202.R)
 
 
