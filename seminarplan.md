@@ -5,9 +5,10 @@
 
 
 
-|Uke | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
+|Uke | Seminarnr. | Tema                        |  Side  |
 |----|------------|-----------------------------|-------------------------|
-| x  | x          | Tilbud og etterspørsel I    | kommer                  |
-| x  | x          | IS-LM                       | kommer                  |
-| x  | x          | R                           | kommer                  |
-| x  | x          | Python                      | kommer                  |
+| 37  | 1          | Presantasjon av data       | [Seminar 1](seminar01.md)                  |
+| 38  | 2          | Hypotese testing           | [Seminar 2](seminar02.md)                  |
+| 40  | 3          | Inteferens                 | [Seminar 3](seminar03.md)                  |
+| 42  | 4          | Regresjon                  | [Seminar 4](seminar04.md)                  |
+| 43  | 5          | Modellering                | [Seminar 5](seminar05.md)                  |
