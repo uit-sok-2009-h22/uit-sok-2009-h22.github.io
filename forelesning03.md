@@ -11,3 +11,7 @@
 [R-kode](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Forelesning%203.R)
 
 
+## Datasett
+[Spørre undersøkelsen](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/spore_under.Rdata?raw=true)
+
+[Spottify](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/spotify_2000_2020.r?raw=true)
