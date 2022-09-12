@@ -1,8 +1,8 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Forelesning 4: Utforskende dataanalyse i R
+# Forelesning 4: Hypotese testing
 
 ## Datacamp
-[Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r)
+[Hypothesis Testing in R](https://app.datacamp.com/learn/courses/hypothesis-testing-in-r)
 
 ## Forelesnings slides
 [Forelesning]()
