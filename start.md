@@ -8,7 +8,7 @@ Eksamen inneholder informasjon om eksamen.
 
 - [Undervisningsplan](forelesningsplan.html)
 - [Arbeidskrav](innleveringer.html)
-- [Eksamen](eksamen.html)
+- [Eksamen](eksamen.md)
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
 
@@ -58,4 +58,4 @@ Les mer om arbeiskrav under [Arbeidskrav](innleveringer.html)
 ### Eksamen
 Eksamensordningen er en mappe som består av to deler. Innlevering av gruppe prosjektet og en individuell innlevering. Begge delene teller likt på sluttvurderingen. Eksamen vurderes med bokstavkarakterer A-E, med F som stryk. 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
-Les mer om eksamen under [Eksamen](eksamen.html)
+Les mer om eksamen under [Eksamen](eksamen.md)
