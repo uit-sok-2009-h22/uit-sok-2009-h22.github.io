@@ -3,6 +3,5 @@
 
 I seminaret går vi gjennom et prelaget oppgavesett. Som jeg blir å legge ut her. 
 
-## Oppgavesett
-
-## Kode med svar
+## Oppgavesett med svar
+[Markdown](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Seminar%201.Rmd)
