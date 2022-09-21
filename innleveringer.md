@@ -18,15 +18,13 @@ I datacamp har vi 15 kurs som er lagt til vårt emne. Det er lagt opp til at der
 - Sampling in R 
 - Hypothesis Testing in R 
 - Foundations of Inference 
-- Inference for Numerical Data in R 
 - Introduction to Regression in R (- logistic regression) 
 - Intermediate Regression in R (- logistic regression) 
 - Inference for Linear Regression in R 
 - Introduction to Statistical Modeling in R 
 - Intermediate Statistical Modeling in R 
 - Modeling with Data in the Tidyverse 
-- Foundations of Probability in R 
-- Probability Puzzles in R 
+
 
 Legg merke til at kurset i datacamp *Correlation and Regression in R* ikke lenger er del av de obligatoriske innleveringene. Dette er fordi dette kurset har blitt arkivert av datacamp og er ikke lenger tilgjenelig.
 De to emnene som heter *Introduction to Regression in R* og *Intermediate Regression in R* så står det "(- logistic regression)", dette betyr at kapittel 4 som er logistisk regrssio ikke krevet for dette emnet. Logistisc regressjon er ikke pensum i dette emnet. 
