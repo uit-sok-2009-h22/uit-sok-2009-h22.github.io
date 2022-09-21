@@ -10,8 +10,8 @@
 | Uke 37 | 15.09  10:15-12:00   | 02.217, Innovatøre |Forelesninger|[Hypothesis Testing in R](https://app.datacamp.com/learn/courses/hypothesis-testing-in-r) del 1| [Forelesning 4](forelesning04.md) del 1 |  
 |Uke 37 |16.09  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 1](seminar01.md)|  
 |Uke 38 |19.09  10:15-12:00   | 02.217, Innovatøren  |Forelesninger| [Hypothesis Testing in R](https://app.datacamp.com/learn/courses/hypothesis-testing-in-r) del 2| [Forelesning 4](forelesning04.md) del 2 |   
-|Uke 38 |23.09  12:15-14:00  | 02.119, DT-LAB |Seminar| [Foundation of inference](https://app.datacamp.com/learn/courses/foundations-of-inference-in-r) | [Seminar 2](seminar02.md) |  
-|Uke 39 |26.09  10:15-12:00  | 02.217, Innovatøren |Forelesninger| | [Forelesning 6](forelesning06.md)  |  
+|Uke 38 |23.09  12:15-14:00  | 02.119, DT-LAB |Seminar|  | [Seminar 2](seminar02.md) |  
+|Uke 39 |26.09  10:15-12:00  | 02.217, Innovatøren |Forelesninger| [Foundation of inference](https://app.datacamp.com/learn/courses/foundations-of-inference-in-r) | [Forelesning 6](forelesning06.md)  |  
 |Uke 39 |29.09  10:15-12:00  | 02.217, Innovatøren |Forelesninger| |  
 |Uke 40 |03.10  12:15-14:00  | 02.217, Innovatøren |Forelesninger| [Introdution to Regression in R](https://app.datacamp.com/learn/courses/introduction-to-regression-in-r)| [Forelesning 7](forelesning07.md) |  
 |Uke 40 |02.10  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 3](seminar03.md) |  
