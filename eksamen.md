@@ -1,5 +1,4 @@
-{% include navbar_open.html %}{% include top-box.html %}
-# Eksamen 
+{% include navbar_open.html %}{% include top-box.html %}# Eksamen 
 
 Eksamensordningen er en mappe som består av to deler. Innlevering av gruppe prosjektet og en individuell innlevering. Begge delene teller likt på sluttvurderingen. Eksamen vurderes med bokstavkarakterer A-E, med F som stryk. 
 
