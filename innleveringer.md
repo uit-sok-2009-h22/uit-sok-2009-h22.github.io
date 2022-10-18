@@ -31,10 +31,12 @@ De to emnene som heter *Introduction to Regression in R* og *Intermediate Regres
 
 ### Gruppe presantasjon (arbeidskrav 2)
 
-**Innleveringsfrist: Uke 43**
+**Innleveringsfrist: Uke 42-43**
 
 Muntelig presentasjon av et felles prosjekt. Til innleveringen har jeg satt av en uke siden ingen kan presanterer samtidig. Dette arbeidskravet er samme oppgave som gruppe prosjektet til første del av eksamen. Det er ment til at dere skal kan presantere deres funn/løsninger til meg å få tilbakemeling. 
 Alle i gruppen må være tilstede under presantasjonen, men ikke alle trenger å presantere. Men jeg blir å stille spørsmål som alle må være med å svare. 
+
+Last ned oppgaven [her](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Gruppe-eksamen-arbeidskrav_v2.pdf).
 
 Gruppe prosjektet blir utlevert uke 4x, xx.10 klokken 14:00. 
 
