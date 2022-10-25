@@ -8,7 +8,7 @@ Eksamen inneholder informasjon om eksamen.
 
 - [Undervisningsplan](forelesningsplan.html)
 - [Arbeidskrav](innleveringer.html)
-- [Eksamen](eksamen.md)
+- [Eksamen](eksamen.html)
 - [Eksamen](eksamen_v3.md)
 
 [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&fag=&module[]=SOK-2009-1#week-23){:target="blank"} på timeplan.uit.no
