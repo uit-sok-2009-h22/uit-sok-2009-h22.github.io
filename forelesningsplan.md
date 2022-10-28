@@ -19,6 +19,6 @@
 |Uke 42 |20.10  10:15-12:00  | 02.217, Innovatøren |Forelesninger| [Inference for Linear Regression in R](https://app.datacamp.com/learn/courses/inference-for-linear-regression-in-r)| [Forelesning 9](forelesning09.md) | 
 |Uke 43 |27.10  10:15-12:00  | 02.217, Innovatøren |Forelesninger|  [Introduction to statistical modeling in R](https://app.datacamp.com/learn/courses/introduction-to-statistical-modeling-in-r)| [Forelesning 10](forelesning10.md) |  
 |Uke 43 |28.10  12:15-14:00  | 02.119, DT-LAB |Seminar|| [Seminar 5](seminar05.md) |  
-|Uke 44 |31.10  12:15-14:00  | 02.217, Innovatøren |Forelesninger| [Intermediate Statistical Modeling in R](https://app.datacamp.com/learn/courses/intermediate-statistical-modeling-in-r) | [Forelesning 11](forelesning11.md) |  
-|Uke 44 |03.11  10:15-12:00  | 02.217, Innovatøren |Forelesninger|[Modeling with Data in Tidyverse](https://app.datacamp.com/learn/courses/modeling-with-data-in-the-tidyverse)| [Forelesning 12](forelesning12.md) |
+|Uke 44 |03.11  10:15-12:00   | 02.217, Innovatøren |Forelesninger| [Intermediate Statistical Modeling in R](https://app.datacamp.com/learn/courses/intermediate-statistical-modeling-in-r) | [Forelesning 11](forelesning11.md) |  
+|Uke 45 | YTBD  | YTBD |Forelesninger|[Modeling with Data in Tidyverse](https://app.datacamp.com/learn/courses/modeling-with-data-in-the-tidyverse)| [Forelesning 12](forelesning12.md) |
 |Uke 50 |12.12  13:00  |  |Eksamen|| |  
