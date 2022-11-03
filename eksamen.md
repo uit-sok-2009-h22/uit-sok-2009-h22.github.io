@@ -17,6 +17,7 @@ Last ned oppgavesett [her](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.
 
 ## Individuell eksamen
 
-Innleveringsfrist: **Mandag 12.12 kl 14:00**
+Utlevering: **Fredag 09.12 kl 16:00**
+Innleveringsfrist: **Mandag 12.12 kl 16:00**
 
 Denne eksamen blir hjemme eksamen med innlevering i WiseFlow. Til eksmane skal svar på spørsmål leveres inn i WiseFlow i PDF-format samt skal R kode leveres in.
