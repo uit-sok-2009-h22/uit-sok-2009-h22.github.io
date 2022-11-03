@@ -15,6 +15,8 @@ Hver gruppe kan ha fra 2 til 5 studenter og må levere inn samarbeidsavtale for 
 Målet med oppgaven at dere skal kunne presentere et prosjekt muntlig og skriftlig. Oppgaven blir å gå gjennom et datasett og gi tilbakemelding til et fiktivt selskap om diverse ting de lurer på.
 Last ned oppgavesett [her](https://github.com/uit-sok-2009-h22/uit-sok-2009-h22.github.io/blob/main/filer/Gruppe-eksamen-arbeidskrav_v2.pdf).
 
+Dere finner mer informasjon rundt gruppeinnlevering i WISEflow ved å trykke [her](https://uit.no/digitaleksamen). Trykk så på boksen hvor det står «Gjennomføring av hjemmeeksamen», og velg deretter «Gruppeeksamen». NB! Selv om det står eksamen så er fremgangsmåten akkurat den samme ved arbeidskrav.
+
 ## Individuell eksamen
 
 Utlevering: **Fredag 09.12 kl 16:00**
