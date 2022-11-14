@@ -12,7 +12,6 @@
 
 I datacamp har vi 15 kurs som er lagt til vårt emne. Det er lagt opp til at dere ser disse videoene før forelesning, men er ikke at absoult krav. 
 
-- Introduction to Data in R 
 - Exploratory Data Analysis in R 
 - Introduction to Statistics in R 
 - Sampling in R 
