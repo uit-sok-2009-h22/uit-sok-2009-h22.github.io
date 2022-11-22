@@ -14,13 +14,14 @@ rm(list = ls()) # Tommer listen
 options(scipen=10) # skriver ut 10 siffer (foran komma)
 options(digits=5) # skriver ut 5 desimaler (etter komma...)
 
-suppressPackageStartupMessages(library(dplyr))
-suppressPackageStartupMessages(library(tidyverse))
-suppressPackageStartupMessages(library(ggplot2))
-suppressPackageStartupMessages(library(janitor))
-suppressPackageStartupMessages(library(infer))
-suppressPackageStartupMessages(library(HH))
-suppressPackageStartupMessages(library(mosaic))
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(janitor)
+library(infer)
+library(HH)
+library(mosaic)
+library(statisticalModeling)
 
 # Kode for a kunne bruke norske bokstaver
 Sys.setlocale(locale="no_NO")
@@ -76,8 +77,8 @@ Start med å lage et scatterplot mellom pris på y aksen og avstand til metroen 
 
 
 ## bruker logaritment i steden 
-ggplot(taiwan_real_estate, a
-       es(x=log(dist_to_mrt_m), y=log(price_twd_msq) )) +
+ggplot(taiwan_real_estate, 
+       aes(x=log(dist_to_mrt_m), y=log(price_twd_msq) )) +
   geom_point()
 ```
 
@@ -135,8 +136,12 @@ Funksjon(n_convenience =  5, dist_to_mrt_m =  sqrt(1600))
 Funksjon(n_convenience =  5, dist_to_mrt_m =  sqrt(1600)) -
   Funksjon(n_convenience =  4, dist_to_mrt_m =  sqrt(1600))
 
+evaluate_model(OutPut, 
+               n_convenience =  5,
+               dist_to_mrt_m =  sqrt(1600))
 
-
+effect_size(OutPut, ~ n_convenience)
+               
 ```
 
 #### Oppgave 1.4.4
@@ -174,7 +179,7 @@ Funksjon <- makeFun(OutPut)
 
 ```
 
-#### 1.5.1
+#### Oppgave  1.5.1
 
 Hva er effekten av en ekstra butikk i nærheten på kvadratmeterpris?
 
@@ -185,6 +190,7 @@ Funksjon(n_convenience =2+1, dist_to_mrt_m = sqrt(400) ,
   Funksjon(n_convenience =2, dist_to_mrt_m = sqrt(400) ,
            house_age_years = "0 to 15" )
 
+
 Funksjon(n_convenience =2+1, dist_to_mrt_m = sqrt(1600) ,
          house_age_years = "0 to 15" ) - 
   Funksjon(n_convenience =2, dist_to_mrt_m = sqrt(1600) ,
@@ -192,7 +198,7 @@ Funksjon(n_convenience =2+1, dist_to_mrt_m = sqrt(1600) ,
 
 ```
 
-#### 1.5.2
+#### Oppgave  1.5.2
 
 Gjennomfør en lineær regresjon med pris som den avhengig variable. Som uavhengig variabler bruk antall butikker, av avstand til metroen, lag en interaksjons variable mellom antall butikker og avstand til metroen som uavhengige variabler i tillegg til alder på hus/leilighet. Tolk resultatet.
 
@@ -216,16 +222,6 @@ Funksjon(n_convenience =0+1, dist_to_mrt_m = 100 ,
 
 ```
 
-#### 1.5.2
-
-For å helpe med forståelsen på hvordan endring av en variable påvirker kvadratmeterpris kan vi ta å lage en funksjon av modellen predikere prisen. Prediker hvor mye en ekstra butikke i nærheten påvirker prisen på hus/leilighet.
-
-```{r}
-
-
-
-```
-
 ## Oppgave 2
 
 Er det noe forskjeller i vekt på forsendelsene og transport type? Se på datasettet *late_shipments*.
@@ -235,22 +231,34 @@ Er det noe forskjeller i vekt på forsendelsene og transport type? Se på datase
 Gjennomfør en regresjon mellom pris på forsendeles som avhengig variabel, bruk forsendings metode, vekt og om destinasjoen var den første plassen dratt (*first_line_designation*) til som uavhengige variabler.
 
 ```{r}
+out_put <- lm(freight_cost_usd ~ shipment_mode +  first_line_designation, data =late_shipments )
 
 ```
+
+Her får vi en error "contrasts can be applied only to factors with 2 or more levels".
 
 #### Oppgave 2.1.1
 
 Undersøk variablen *first_line_designation* hvorfor kan ikke denne variabelen brukes.
 
+**Svar:** La oss først se på nivåene til variablene "first_line_designation".
+
+```{r}
+unique(late_shipments$first_line_designation)
+```
+
+Vi ser at at alle forsendelsene er i kategorien "Yes", det finnes ikke noe variasjon i variablene som kan forklare om forsendelsene ble forsinket eller ikke.
+
+Tenk på det som dette, vi lager et spørreskjema med to spørsmål, personens vekt og om de trener. Hvis nå vi får inn mange besvarelser, men alle har svart at de ikke trener hvordan kan vi forklare vektene til personene fra vår variabel? Alle er i en og sammen kategori, de trengeri ikke.
+
 ### Oppgave 2.2
 
 Det er mulig at variablene i 2.1 ikke er lineære. Lag et scatterplott mellom vekt og pris. Ser dette ut til å være lineært?
 
-### Oppgave 2.3
-
-Gjennom før regresjoner med logaritment av den avhengie variabelen, en med logaritment av de uavhengige variablene og til slutt logarittment av alle variablene i 2.1 (bortsett fra *first_line_designation*).
-
-Hvilken model er best?
+```{r}
+ggplot(late_shipments, aes(x=shipment_mode, y= freight_cost_usd))+
+  geom_point()
+```
 
 ## Oppgave 3
 
