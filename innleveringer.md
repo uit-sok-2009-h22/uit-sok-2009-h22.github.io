@@ -12,17 +12,17 @@
 
 I datacamp har vi 15 kurs som er lagt til vårt emne. Det er lagt opp til at dere ser disse videoene før forelesning, men er ikke at absoult krav. 
 
-- Exploratory Data Analysis in R 
-- Introduction to Statistics in R 
-- Sampling in R 
-- Hypothesis Testing in R 
-- Foundations of Inference 
-- Introduction to Regression in R (- logistic regression) 
-- Intermediate Regression in R (- logistic regression) 
-- Inference for Linear Regression in R 
-- Introduction to Statistical Modeling in R 
-- Intermediate Statistical Modeling in R 
-- Modeling with Data in the Tidyverse 
+- [Exploratory Data Analysis in R](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-r) 
+- [Introduction to Statistics in R](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-r) 
+- [Sampling in R](https://app.datacamp.com/learn/courses/sampling-in-r) 
+- [Hypothesis Testing in R](https://app.datacamp.com/learn/courses/hypothesis-testing-in-r) 
+- [Foundations of Inference](https://app.datacamp.com/learn/courses/foundations-of-inference-in-r) 
+- [Introduction to Regression in R (- logistic regression)](https://app.datacamp.com/learn/courses/introduction-to-regression-in-r) 
+- [Intermediate Regression in R (- logistic regression)](https://app.datacamp.com/learn/courses/intermediate-regression-in-r)
+- [Inference for Linear Regression in R](https://app.datacamp.com/learn/courses/inference-for-linear-regression-in-r)
+- [Introduction to Statistical Modeling in R](https://app.datacamp.com/learn/courses/introduction-to-statistical-modeling-in-r)
+- [Intermediate Statistical Modeling in R](https://app.datacamp.com/learn/courses/intermediate-statistical-modeling-in-r)
+- [Modeling with Data in the Tidyverse](https://app.datacamp.com/learn/courses/modeling-with-data-in-the-tidyverse)
 
 
 Legg merke til at kurset i datacamp *Correlation and Regression in R* ikke lenger er del av de obligatoriske innleveringene. Dette er fordi dette kurset har blitt arkivert av datacamp og er ikke lenger tilgjenelig.
