@@ -1,5 +1,5 @@
 ---
-title: "Seminar 1 fasit"
+title: "Seminar 1"
 author: "Eirik Heen"
 format: html
 editor: visual
