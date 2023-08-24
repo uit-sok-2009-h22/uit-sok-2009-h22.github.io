@@ -23,7 +23,7 @@ Seminarene blir basert på oppgavegjennomgang.
 
 
 ## Faglærerinfo  
-- [Eirik Eriksen Heen](https://uit.no/ansatte/eirik.e.heen){:target="blank"} (fagansvarlig)
+
 
 ## Administrative spørsmål
 
@@ -40,10 +40,10 @@ Dette emne bruker online booken [Modern Statistics with R](https://modernstatist
 ## Datacamp
 
 Får å få tilgang til Datacamp må deres registrere dere til kurset/rommet vårt i Datacamp. Dere gjør dette ved å følge linken under. Dere MÅ resisterer dere med universitetes mail i form av "abc123@uit.no". Hvis dere bruker en privat epost vil dere ikke få tilgang.  
-[Datacamp registrering](https://www.datacamp.com/groups/shared_links/55731b3bb43379f8a5c6c5d8be3631e11b0a2019654199cb0f4007d7009f9c99)
+[Datacamp registrering](https://www.datacamp.com/groups/shared_links/59a79af5a31c38784058d1a2429854adf797616cd0e10dc9db51b014df878ece)
 
 Hvis denne registreringen ikke fungerer kan dere bruke alternative epost adressen i form av "abc123@post.uit.no". Ved å følge linken under
-[Datacamp alternativ registrering](https://www.datacamp.com/groups/shared_links/a1eb137c1eb25a608c94782da347a86fbfb00d6f41f060f06a93fa4c76fe57ff)
+[Datacamp alternativ registrering](https://www.datacamp.com/groups/shared_links/8a34d97b75e91c044e50e1726ac066089e6a1cba13430fd88382782a0b6edd0c)
 
 ## Kunngjøringer  
 
